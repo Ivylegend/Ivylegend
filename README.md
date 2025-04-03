@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **frontend aspect of any project**
 
-- 👨‍💻 All of my projects are available at [https://ivys-portfolio.netlify.app/](https://ivys-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ivys-portfolio.netlify.app/](https://icha-portfolio.vercel.app/)
 
 - 💬 Ask me about **React, Nextjs**
 
